@@ -4,6 +4,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxGridView - How to specify HeaderCaptionTemplate and prevent the default mouse actions
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3937)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to define some control inside a header caption template and prevent a default action for the specified events.<br />
