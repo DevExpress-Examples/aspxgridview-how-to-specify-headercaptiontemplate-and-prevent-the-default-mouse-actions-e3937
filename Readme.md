@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to specify HeaderCaptionTemplate and prevent the default mouse actions
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3937)**
+**[[Run Online]](https://codecentral.devexpress.com/e3937/)**
 <!-- run online end -->
 
 
